@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @KitKatNaomi
+- 👀 I’m interested in making widgets (like View Counters) for [Neocities](https://neocities.org/)
+- 🌱 I’m currently learning about how to use [Neocity API](https://neocities.org/api) to updates more effcient.
+- 💞️ I’m looking to collaborate on everything Neocity.
+- 📫 Reach to me on Discord NaomiXD#1465
